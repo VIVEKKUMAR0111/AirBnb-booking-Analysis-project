@@ -1,4 +1,4 @@
- AirBnb-data-Analysis-project
+AirBnb-data-Analysis-project
 Analyzing the data of Airbnb booking analysis.This dataset contains 49000 observations in it with 16 columns.
 
 1st Query | Data exploration Create a AirBnb NYC 2019.csv file with information of  months and clean the data. Answer 12 subqueries, written as comments in the notebook, using simple and common libraries such as pandas, numpy, metaplotlib etc and display the results into multiple and various plots.
